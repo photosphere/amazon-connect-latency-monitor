@@ -56,3 +56,5 @@ streamlit run latency_monitor.py
 ```bash
 streamlit run latency_monitor.py --server.port 8080 --server.address=0.0.0.0 
 ```
+
+<img width="780" height="722" alt="Image" src="https://github.com/user-attachments/assets/2e808510-39e7-4394-ad27-1e7f4350e689" />
